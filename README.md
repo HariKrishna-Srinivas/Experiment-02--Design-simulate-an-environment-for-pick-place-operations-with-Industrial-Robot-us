@@ -81,10 +81,8 @@ r.MoveJ(p(25.497,-57.3097,200.657,-90,-0.000220614,180),[32.8573,-74.9724,-134.4
 raise Exception("""Your license does not allow generating programs with more than 50 lines of code. Upgrade your license to unlock this feature.""")
 ~~~
 ### SIMULATION:
-
-![image](https://user-images.githubusercontent.com/94882905/203785553-9bfca330-621f-4fdd-9628-872598f8af14.png)
+![image](https://user-images.githubusercontent.com/94882905/203786878-21cbd741-22be-43be-ba69-d72001532f0d.png)
 ![image](https://user-images.githubusercontent.com/94882905/203786747-dbe10e45-9ed9-4494-9b4f-c3e8252f83c1.png)
-
 ![image](https://user-images.githubusercontent.com/94882905/203785586-ebd296c5-e9d4-438e-a63d-ae231080195e.png)
 
 ### RESULT:
